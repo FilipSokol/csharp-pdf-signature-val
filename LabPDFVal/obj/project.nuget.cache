@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BGwET3OJvsGrm8BCpNuhW+LghZXG/7c8knTXpqlo3wYTDiM5+lZRSmOcjXQlvnTI2J1fBPNSepSvozf4AASfrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sokfi\\OneDrive\\Dzieło sztuki\\SQL Zajecia\\Lab 4\\LabPDFVal\\LabPDFVal\\LabPDFVal\\LabPDFVal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sokfi\\.nuget\\packages\\freespire.pdf\\8.2.0\\freespire.pdf.8.2.0.nupkg.sha512",
+    "C:\\Users\\sokfi\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\sokfi\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\sokfi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sokfi\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
